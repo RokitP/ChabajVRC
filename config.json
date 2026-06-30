@@ -1,0 +1,15 @@
+{
+	"client":{
+		"ip":""
+	},
+	"info":{
+		"main":{
+			"name":"?",
+			"pronouns":"?/?"
+		},
+		"optional":{
+			"ageenabled":false,
+			"age":0
+		}
+	}
+}

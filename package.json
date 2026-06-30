@@ -1,0 +1,24 @@
+{
+  "name": "chabaj",
+  "version": "0.1.0",
+  "description": "This is just a simple program to display key information above your head!",
+  "main": "index.js",
+  "scripts": {
+    "": ""
+  },
+  "keywords": [
+    "chabaj",
+    "node",
+    "js",
+    "nodejs",
+    "rokit",
+    "rokitp"
+  ],
+  "author": "RokitP",
+  "license": "MIT",
+  "dependencies": {
+    "bytenode": "^1.6.0",
+    "node-osc": "^11.6.0",
+    "superscript-text": "^1.0.0"
+  }
+}
