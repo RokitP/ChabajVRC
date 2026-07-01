@@ -10,6 +10,8 @@
 		"optional":{
 			"ageenabled":false,
 			"age":0,
+			"statusenabled":false,
+			"status":"",`
 			"extrainfoenabled":false,
 			"extrainfo":"?"
 		}
