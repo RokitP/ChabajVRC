@@ -1,6 +1,6 @@
 {
   "name": "chabaj",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is just a simple program to display key information above your head! I don't really know what I am doing to be honest, all this GitHub stuff is really difficult.",
   "main": "index.js",
   "scripts": {
