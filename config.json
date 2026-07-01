@@ -1,6 +1,6 @@
 {
 	"client":{
-		"ip":""
+		"ip":"?"
 	},
 	"info":{
 		"main":{
@@ -9,7 +9,9 @@
 		},
 		"optional":{
 			"ageenabled":false,
-			"age":0
+			"age":0,
+			"extrainfoenabled":false,
+			"extrainfo":"?"
 		}
 	}
 }
